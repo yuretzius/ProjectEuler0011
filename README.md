@@ -1,7 +1,7 @@
 # ProjectEuler11
 My work on
 
-problem #11 of projecteuler.net:
+[problem #11 of projecteuler.net](https://projecteuler.net/problem=11):
 
 Largest Product in a Grid
 
