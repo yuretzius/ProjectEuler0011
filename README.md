@@ -3,7 +3,7 @@ My work on
 
 [problem #11 of projecteuler.net](https://projecteuler.net/problem=11):
 
-Largest Product in a Grid
+### Largest Product in a Grid
 
 In the $20 \times 20$ grid below, four numbers along a diagonal line have been marked as bold.
 
@@ -31,12 +31,10 @@ In the $20 \times 20$ grid below, four numbers along a diagonal line have been m
 The product of these numbers is $26 \times 63 \times 78 \times 14 = 1788696$.
 What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the $20 \times 20$ grid?
 
-Completed on Wed, 24 Feb 2021, 03:20
+*Completed on Wed, 24 Feb 2021, 03:20*
 
-#######################################################################################
-Please note: Project Euler's policy allows publication of solutions for the first 100 problems,
-that's why I am sharing my work here for reference and educational purposes.
-#######################################################################################
+> [!NOTE]
+> Project Euler's policy allows publication of solutions for the first 100 problems, that's why I am sharing my work here for reference and educational purposes.
 
 Nothing clever here, unfortunately. Just saved the whole thing as an 2D array and cycled in all four directions with double for cycles.
 
